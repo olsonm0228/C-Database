@@ -49,7 +49,6 @@ namespace Tickets
                         Console.WriteLine("File does not exist");
                     }
                 }
-                //working here
                 else if (choice == "2")
                 {
 
