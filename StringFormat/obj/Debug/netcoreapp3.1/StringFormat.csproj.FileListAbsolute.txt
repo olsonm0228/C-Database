@@ -1,0 +1,13 @@
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.exe
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.deps.json
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.runtimeconfig.json
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.dll
+C:\SchoolStuff\C#Database\StringFormat\bin\Debug\netcoreapp3.1\StringFormat.pdb
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.dll
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.pdb
+C:\SchoolStuff\C#Database\StringFormat\obj\Debug\netcoreapp3.1\StringFormat.genruntimeconfig.cache

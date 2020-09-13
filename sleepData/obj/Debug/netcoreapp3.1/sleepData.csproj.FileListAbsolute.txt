@@ -1,0 +1,13 @@
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.exe
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.deps.json
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.runtimeconfig.json
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.dll
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\sleepData.pdb
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.dll
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.pdb
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.genruntimeconfig.cache

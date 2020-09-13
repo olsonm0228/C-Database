@@ -1,0 +1,13 @@
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.exe
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.deps.json
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.runtimeconfig.json
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.dll
+C:\SchoolStuff\C#Database\dateFormat\bin\Debug\netcoreapp3.1\dateFormat.pdb
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.dll
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.pdb
+C:\SchoolStuff\C#Database\dateFormat\obj\Debug\netcoreapp3.1\dateFormat.genruntimeconfig.cache
