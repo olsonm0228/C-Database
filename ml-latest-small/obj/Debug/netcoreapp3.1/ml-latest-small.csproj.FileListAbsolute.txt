@@ -1,0 +1,17 @@
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.exe
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.deps.json
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.runtimeconfig.json
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.dll
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\ml-latest-small.pdb
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\NLog.dll
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\SchoolStuff\C#Database\ml-latest-small\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.csproj.CopyComplete
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.dll
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.pdb
+C:\SchoolStuff\C#Database\ml-latest-small\obj\Debug\netcoreapp3.1\ml-latest-small.genruntimeconfig.cache

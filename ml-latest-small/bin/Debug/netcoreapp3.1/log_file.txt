@@ -1,0 +1,11 @@
+2020-09-27 11:56:55.9079|INFO|ml_latest_small.Program|Program started
+2020-09-27 11:57:06.1236|INFO|ml_latest_small.Program|Program ended
+2020-09-27 12:07:25.3598|INFO|ml_latest_small.Program|Program started
+2020-09-27 12:07:38.0046|ERROR|ml_latest_small.Program|Duplicate Movie!!
+2020-09-27 12:07:48.9187|INFO|ml_latest_small.Program|Program ended
+2020-09-27 12:13:16.1934|INFO|ml_latest_small.Program|Program started
+2020-09-27 12:13:19.8230|WARN|ml_latest_small.Program|Duplicate Movie!!
+2020-09-27 12:13:29.8241|INFO|ml_latest_small.Program|Program ended
+2020-09-27 12:26:52.1268|INFO|ml_latest_small.Program|Program started
+2020-09-27 12:26:59.3407|WARN|ml_latest_small.Program|Duplicate Movie!!
+2020-09-27 12:27:01.2961|INFO|ml_latest_small.Program|Program ended

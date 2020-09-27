@@ -11,3 +11,7 @@ C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.csproj.Cor
 C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.dll
 C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.pdb
 C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.genruntimeconfig.cache
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\NLog.dll
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\SchoolStuff\C#Database\sleepData\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\SchoolStuff\C#Database\sleepData\obj\Debug\netcoreapp3.1\sleepData.csproj.CopyComplete

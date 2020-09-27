@@ -1,0 +1,13 @@
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.exe
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.deps.json
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.runtimeconfig.json
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.runtimeconfig.dev.json
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.dll
+C:\SchoolStuff\C#Database\newTesting\bin\Debug\netcoreapp3.1\newTesting.pdb
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.csprojAssemblyReference.cache
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.AssemblyInfoInputs.cache
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.AssemblyInfo.cs
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.csproj.CoreCompileInputs.cache
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.dll
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.pdb
+C:\SchoolStuff\C#Database\newTesting\obj\Debug\netcoreapp3.1\newTesting.genruntimeconfig.cache

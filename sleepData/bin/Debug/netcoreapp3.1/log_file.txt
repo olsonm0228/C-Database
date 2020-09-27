@@ -1,0 +1,11 @@
+2020-09-14 09:15:05.7106|INFO|SleepData.Program|Program started
+2020-09-14 09:15:07.9581|INFO|SleepData.Program|Program ended
+2020-09-14 09:15:16.6990|INFO|SleepData.Program|Program started
+2020-09-14 09:15:22.3572|INFO|SleepData.Program|Program ended
+2020-09-14 09:15:29.0334|INFO|SleepData.Program|Program started
+2020-09-14 09:15:32.3432|ERROR|SleepData.Program|Invalid input (integer): "l"
+2020-09-14 09:15:32.3653|INFO|SleepData.Program|Program ended
+2020-09-14 09:15:44.8517|INFO|SleepData.Program|Program started
+2020-09-14 09:15:46.6002|INFO|SleepData.Program|Program ended
+2020-09-27 08:55:59.7530|INFO|sleepData.Program|Program started
+2020-09-27 08:56:06.7527|INFO|sleepData.Program|Program ended
