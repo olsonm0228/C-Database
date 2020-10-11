@@ -1,8 +1,0 @@
-2020-09-28 09:39:53.0109|INFO|MovieLibrary.Program|Program started
-2020-09-28 09:39:53.1527|INFO|MovieLibrary.MovieFile|Movies in file 9125
-2020-09-28 09:39:56.0876|INFO|MovieLibrary.Program|User choice: "2"
-2020-10-02 20:34:57.8381|INFO|MovieLibrary.Program|Program started
-2020-10-02 20:34:57.9002|INFO|MovieLibrary.MovieFile|Movies in file 9125
-2020-10-02 20:35:01.5469|INFO|MovieLibrary.Program|User choice: "2"
-2020-10-02 20:35:33.6606|INFO|MovieLibrary.Program|User choice: ""
-2020-10-02 20:35:33.6606|INFO|MovieLibrary.Program|Program ended
