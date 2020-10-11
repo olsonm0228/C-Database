@@ -1,7 +1,6 @@
 ﻿using System;
 using NLog.Web;
 using System.IO;
-using MediaLibrary;
 
 
 namespace MediaLibrary
@@ -62,7 +61,7 @@ namespace MediaLibrary
                         Console.WriteLine("Enter movie director");
                         movie.director = Console.ReadLine();
                         Console.WriteLine("Enter running time (h:m:s)");
-                        movie.runTime = Console.ReadLine();
+                        movie.runningTime = TimeSpan.Parse(Console.ReadLine());
                         // add movie
                         movieFile.AddMovie(movie);
                     }
