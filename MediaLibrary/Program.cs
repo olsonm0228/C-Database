@@ -13,7 +13,7 @@ namespace MediaLibrary
         {
             logger.Info("Program started");
 
-            string movieFilePath = "moives.scrubbed.csv";
+            string movieFilePath = "movies.scrubbed.csv";
             MovieFile movieFile = new MovieFile(movieFilePath);
 
             string choice = "";
@@ -68,6 +68,7 @@ namespace MediaLibrary
                 }
                 else if (choice == "2")
                 {
+                    Console.WriteLine("Test");
                     // Display All Movies
                     foreach (Movie m in movieFile.Movies)
                     {
@@ -77,9 +78,6 @@ namespace MediaLibrary
             } while (choice == "1" || choice == "2");
 
             logger.Info("Program ended");
-
-
-
         }
     }
 }
