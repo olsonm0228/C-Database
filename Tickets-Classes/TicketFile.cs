@@ -3,22 +3,22 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Tickets
+namespace Tickets_Classes
 {
     public class TicketFile
     {
         public String filePath {get;set;}
-        public List<Tickets> Tickets {get;set;}
+        public List<Ticket> Ticket {get;set;}
 
         public TicketFile(string ticketFilePath){
             filePath = ticketFilePath;
-            Tickets = new List<Tickets>();
+            Ticket = new List<Ticket>();
 
             try{
                 StreamReader sr = new StreamReader(filePath);
                 sr.ReadLine();
                 while(!sr.EndOfStream){
-                    Tickets ticket = new Tickets();
+                    Ticket ticket = new Ticket();
                     String line = sr.ReadLine();
 
                     String[] ticketSplit = line.Split(',');
@@ -29,10 +29,11 @@ namespace Tickets
                     ticket.priority = ticketSplit[3];
                     ticket.submitter = ticketSplit[4];
                     ticket.assigned = ticketSplit[5];
+                    ticket.severity = ticketSplit[7];
                     for(int i = 0; i<watching.Length; i++){
                         ticket.watching.Add(watching[i]);
                     }
-                    Tickets.Add(ticket);
+                    Ticket.Add(ticket);
                 }
                 sr.Close();
             } catch {
@@ -41,11 +42,11 @@ namespace Tickets
         }
 
 
-        public void AddTicket(Tickets ticket){
+        public void AddTicket(Ticket ticket){
             StreamWriter sw = new StreamWriter(filePath, true);
 
-            sw.WriteLine($"{ticket.ticketId}, {ticket.summary}, {ticket.status}, {ticket.priority}, {ticket.submitter}, {ticket.assigned}, {String.Join("|",ticket.watching)}");
-            Tickets.Add(ticket);
+            sw.WriteLine($"{ticket.ticketId}, {ticket.summary}, {ticket.status}, {ticket.priority}, {ticket.submitter}, {ticket.assigned}, {String.Join("|",ticket.watching)}, {ticket.severity}");
+            Ticket.Add(ticket);
 
             sw.Close();
         }

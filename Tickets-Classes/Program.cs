@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Tickets
+namespace Tickets_Classes
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace Tickets
                 choice = Console.ReadLine();
                 if (choice == "1")
                 {
-                    foreach(Tickets t in ticketFile.Tickets){
+                    foreach(Ticket t in ticketFile.Ticket){
                         Console.WriteLine(t.Display());
                     }
                 }
@@ -29,7 +29,7 @@ namespace Tickets
 
                     if (File.Exists(file))
                     {
-                        Tickets ticket = new Tickets();
+                        Ticket ticket = new Ticket();
                         String watchingChoice;
                        //get the data
                         Console.WriteLine("Enter the ID of the ticket.");
@@ -53,6 +53,9 @@ namespace Tickets
                             Console.WriteLine("Are there more people watching Y/N.");
                             watchingChoice = Console.ReadLine();
                         } while (watchingChoice.Equals("y")||watchingChoice.Equals("Y"));
+
+                        Console.WriteLine("What is the severity of the ticket?");
+                        ticket.severity = Console.ReadLine();
                         ticketFile.AddTicket(ticket);
                     }
                     else
