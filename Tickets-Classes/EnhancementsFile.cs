@@ -23,7 +23,7 @@ namespace Tickets_Classes
 
                     String[] ticketSplit = line.Split(',');
                     String[] watching = ticketSplit[6].Split('|');
-                    enhancement.ticketId = ticketSplit[0];
+                    enhancement.id = ticketSplit[0];
                     enhancement.summary = ticketSplit[1];
                     enhancement.status = ticketSplit[2];
                     enhancement.priority = ticketSplit[3];
@@ -46,7 +46,7 @@ namespace Tickets_Classes
         public void AddTicket(Enhancements enhancement){
             StreamWriter sw = new StreamWriter(filePath, true);
 
-            sw.WriteLine($"{enhancement.ticketId},{enhancement.summary},{enhancement.status},{enhancement.priority},{enhancement.submitter},{enhancement.assigned},{String.Join("|",enhancement.watching)},{enhancement.software},{enhancement.cost},{enhancement.reason},{enhancement.estimate}");
+            sw.WriteLine($"{enhancement.id},{enhancement.summary},{enhancement.status},{enhancement.priority},{enhancement.submitter},{enhancement.assigned},{String.Join("|",enhancement.watching)},{enhancement.software},{enhancement.cost},{enhancement.reason},{enhancement.estimate}");
             Enhancement.Add(enhancement);
 
             sw.Close();

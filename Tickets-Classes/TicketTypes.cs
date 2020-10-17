@@ -5,7 +5,7 @@ namespace Tickets_Classes
 {
     public abstract class TicketTypes
     {
-        public String ticketId{get;set;}
+        public String id{get;set;}
         public String summary{get;set;}
         public String status{get;set;}
         public String priority{get;set;}

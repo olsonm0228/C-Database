@@ -23,7 +23,7 @@ namespace Tickets_Classes
 
                     String[] ticketSplit = line.Split(',');
                     String[] watching = ticketSplit[6].Split('|');
-                    ticket.ticketId = ticketSplit[0];
+                    ticket.id = ticketSplit[0];
                     ticket.summary = ticketSplit[1];
                     ticket.status = ticketSplit[2];
                     ticket.priority = ticketSplit[3];
@@ -45,7 +45,7 @@ namespace Tickets_Classes
         public void AddTicket(Ticket ticket){
             StreamWriter sw = new StreamWriter(filePath, true);
 
-            sw.WriteLine($"{ticket.ticketId}, {ticket.summary}, {ticket.status}, {ticket.priority}, {ticket.submitter}, {ticket.assigned}, {String.Join("|",ticket.watching)}, {ticket.severity}");
+            sw.WriteLine($"{ticket.id}, {ticket.summary}, {ticket.status}, {ticket.priority}, {ticket.submitter}, {ticket.assigned}, {String.Join("|",ticket.watching)}, {ticket.severity}");
             Ticket.Add(ticket);
 
             sw.Close();
