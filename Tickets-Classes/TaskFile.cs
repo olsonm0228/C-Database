@@ -31,7 +31,7 @@ namespace Tickets_Classes
                     task.submitter = ticketSplit[4];
                     task.assigned = ticketSplit[5];
                     task.projectName = ticketSplit[7];
-                    task.dueDate = TimeSpan.Parse(ticketSplit[8]);
+                    task.dueDate = DateTime.Parse(ticketSplit[8]);
 
                     for(int i = 0; i<watching.Length; i++){
                         task.watching.Add(watching[i]);

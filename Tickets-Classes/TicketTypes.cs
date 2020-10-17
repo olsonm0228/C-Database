@@ -52,13 +52,13 @@ namespace Tickets_Classes
                     outputWatching += watching[i] + ", ";
                 }
             }
-            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
+            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}\nSoftware: {software}\nCost: {cost}\nReason: {reason}\nEstimate: {estimate}";
         }
     }
 
     public class Tasks : TicketTypes{
         public String projectName;
-        public TimeSpan dueDate;
+        public DateTime dueDate;
 
         public override string Display()
         {
@@ -70,7 +70,7 @@ namespace Tickets_Classes
                     outputWatching += watching[i] + ", ";
                 }
             }
-            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
+            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}\nProject Name: {projectName}\nDue Date: {dueDate.ToString()} ";
         }
     }
 }
