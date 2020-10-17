@@ -32,7 +32,7 @@ namespace Tickets_Classes
                     outputWatching += watching[i] + ", ";
                 }
             }
-            return $"Id: {ticketId}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}\nSeverity: {severity}";
+            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}\nSeverity: {severity}";
         }
     }
 
@@ -52,7 +52,7 @@ namespace Tickets_Classes
                     outputWatching += watching[i] + ", ";
                 }
             }
-            return $"Id: {ticketId}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
+            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
         }
     }
 
@@ -70,7 +70,7 @@ namespace Tickets_Classes
                     outputWatching += watching[i] + ", ";
                 }
             }
-            return $"Id: {ticketId}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
+            return $"Id: {id}\nSummary: {summary}\nPriority: {priority}\nSubmitter: {submitter}\nAssigned: {assigned}\nWatching: {outputWatching}";
         }
     }
 }
