@@ -24,7 +24,7 @@ namespace Tickets_Classes
                 Console.WriteLine("4) Add an enhancements.");
                 Console.WriteLine("5) Show all task data.");
                 Console.WriteLine("6) Add a task.");
-                Console.WriteLine("Enter any other key to exit.");
+                Console.WriteLine("Enter any other number to exit.");
                 // input response
                 choice = Int16.Parse(Console.ReadLine());
                 switch(choice){
@@ -152,7 +152,7 @@ namespace Tickets_Classes
 
                             Console.WriteLine("What is the task's project name?");
                             task.projectName = Console.ReadLine();
-                            Console.WriteLine("What is the due date of the Task? (dd.MM.yyyy)");
+                            Console.WriteLine("What is the due date of the Task? (MM dd, yyyy)");
                             task.dueDate = DateTime.Parse(Console.ReadLine());
 
                             taskFile.AddTicket(task);
